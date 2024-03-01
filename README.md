@@ -1,0 +1,2 @@
+# wildcard-resource-pack
+asdf
